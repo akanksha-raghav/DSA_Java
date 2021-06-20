@@ -1,5 +1,5 @@
 # DSA_Java
-![GitHub pull requests](https://img.shields.io/github/issues-pr/akanksha-raghav/DSA_Java?style=flat-square)]
+![GitHub pull requests](https://img.shields.io/github/issues-pr/akanksha-raghav/DSA_Java?style=flat-square)
 ![Lines of code](https://img.shields.io/tokei/lines/github/akanksha-raghav/DSA_Java?style=flat-square)
 
 
